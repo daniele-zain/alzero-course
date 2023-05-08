@@ -1,4 +1,4 @@
 ## alzero-course
 following along with alzero git course
 
-#notes
+# notes
